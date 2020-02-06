@@ -6,7 +6,7 @@ Read Cppman/Man pages right inside your vim.
 
 - Read pages from both `cppman` and `man`.
 - Supports windows: use WSL or MSYS.
-- Jump cppman/man pages tags with `C-]` or `K` command.
+- Jump to tag under cursor ( eg. "printf(3)" ) with `C-]` or `K` command.
 
 ## Installation
 
